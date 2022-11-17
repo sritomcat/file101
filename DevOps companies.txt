@@ -1,0 +1,26 @@
+1) DEV Solutions
+   DevOps Engineer : Linux, Networking, Docker, Kubernetes, AWS/Azure, Git
+   status : Applied
+   experience : 5 - 10 years
+   location : Noida
+   
+2) Cerence
+   DevOps Enineerg : Docker, Devops, ansible, aws, kubernetes, jenkins,    git, terraform, CiCd pipeline
+   status : applied
+   experience : 2 - 4 years
+   location : pune
+
+3) Algopeap technologies 
+   DevOps Engineer
+   Location : hyderabad
+   status : applied 
+
+4) Softy
+   DevOps Engineer
+   location : hyderabad
+   status : applied
+
+5) EiS technologies
+   DevOps Engineer
+   location : hyderabad
+   status : applied
